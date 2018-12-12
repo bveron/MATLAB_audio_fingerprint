@@ -13,7 +13,7 @@ Before testing it, you have to:
 - run main.m
 
 The different parts of the program are:
-- bibliography list
+- display the bibliography list
 - clear workspace
 - set parameters
 - set database directory (./test_songs)
